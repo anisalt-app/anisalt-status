@@ -1,0 +1,5 @@
+{
+  "anisalt_bootstrap": 1,
+  "data": "{\"app\":\"anisalt\",\"seq\":1,\"issued_at\":1795546300,\"expires_at\":null,\"api_bases\":[\"https://api.nekomux.com/api/app/v1/\"],\"revoked_bases\":[]}",
+  "sig": "MEQCIBgJ9jnBSbxMbK5y9RATMQRSdcV7NCESPOvOtptiLK6uAiAYlea7Z3bjwokBsRo5y2biEAXAc8Ud4vZk7iln7p7zlA=="
+}
